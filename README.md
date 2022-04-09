@@ -1,7 +1,7 @@
-### Fala meus nobres! Eu sou o Gui Sousa 🙋‍♂️
+### Fala meus nobres! Eu sou o Gui Sousa 🙋‍♂️ 
 
 - 💻 Atuo no geral com HTML, CSS e PHP.
-- 🌱 Estudando DotNet, C# e Engenharia de Software.
+- 🌱 Estudando DotNet, C# e Engenharia de Software. 
 - 👨‍🍳 Cozinheiro nas horas vagas!
 
 <div align="center">
@@ -17,6 +17,8 @@
     <img align="center" alt="gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="gui-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
     <img align="center" alt="gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="right" alt="gui-gif" height="150" style="border-radius:50px;" src="eu_gif.gif?width=676&height=676">
+
   </div>
   
   ##
